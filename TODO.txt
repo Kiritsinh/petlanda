@@ -1,0 +1,4 @@
+1. create git repo
+2. setup git in my machine 
+3. phpstrom key
+4. MAMP key
